@@ -1,0 +1,2 @@
+# emerytura
+prosty projekt ćwiczeniowy
