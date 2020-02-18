@@ -21,10 +21,13 @@ Podstawowym typem jest `string` oraz `int`.
 
 ```cs
 Console.WriteLine("Podaj imię");
-imie - Console.ReadLine();
+imie = Console.ReadLine();
 
 ```
 ```csharp
 ```
+### nagłówek 2.3
+
+Strona [WSEI](http://wsei.edu.pl)
 
 
