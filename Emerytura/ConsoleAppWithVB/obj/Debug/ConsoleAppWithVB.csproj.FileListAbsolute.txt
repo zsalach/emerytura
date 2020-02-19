@@ -1,0 +1,6 @@
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppWithVB\bin\Debug\ConsoleAppWithVB.exe.config
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppWithVB\bin\Debug\ConsoleAppWithVB.exe
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppWithVB\bin\Debug\ConsoleAppWithVB.pdb
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppWithVB\obj\Debug\ConsoleAppWithVB.csprojAssemblyReference.cache
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppWithVB\obj\Debug\ConsoleAppWithVB.exe
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppWithVB\obj\Debug\ConsoleAppWithVB.pdb
