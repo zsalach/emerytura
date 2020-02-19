@@ -1,0 +1,7 @@
+Witam!.
+Podaj swoje imię: Witaj Zbigniew!
+Podaj swoje nazwisko:
+Witaj, Zbigniew Kowalski
+Podaj swój wiek: 
+Masz 34 lat
+Do emerytury zostało ci 31

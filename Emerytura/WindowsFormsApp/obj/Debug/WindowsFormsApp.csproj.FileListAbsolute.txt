@@ -1,0 +1,9 @@
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\bin\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.exe
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\bin\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.deps.json
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\bin\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.runtimeconfig.json
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\bin\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.runtimeconfig.dev.json
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\bin\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.dll
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\bin\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.pdb
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\obj\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.csprojAssemblyReference.cache
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\obj\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.AssemblyInfoInputs.cache
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\obj\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.AssemblyInfo.cs
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\obj\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.dll
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppCoreWsadowo\obj\Debug\netcoreapp3.1\ConsoleAppCoreWsadowo.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppCoreWsadowo": {
+      "commandName": "Project",
+      "commandLineArgs": "adam nowak"
+    }
+  }
+}
