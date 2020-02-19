@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmeryturaSolution", "EmeryturaSolution\EmeryturaSolution.csproj", "{B505AF9D-E68A-4877-B6FB-90F64E6BED36}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInteraktywnie", "ConsoleAppInteraktywnie\ConsoleAppInteraktywnie.csproj", "{C53DAC0E-A6B6-4B7A-9320-8942A3FBCC47}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B505AF9D-E68A-4877-B6FB-90F64E6BED36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B505AF9D-E68A-4877-B6FB-90F64E6BED36}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B505AF9D-E68A-4877-B6FB-90F64E6BED36}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B505AF9D-E68A-4877-B6FB-90F64E6BED36}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C53DAC0E-A6B6-4B7A-9320-8942A3FBCC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C53DAC0E-A6B6-4B7A-9320-8942A3FBCC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C53DAC0E-A6B6-4B7A-9320-8942A3FBCC47}.Release|Any CPU.ActiveCfg = Release|Any CPU

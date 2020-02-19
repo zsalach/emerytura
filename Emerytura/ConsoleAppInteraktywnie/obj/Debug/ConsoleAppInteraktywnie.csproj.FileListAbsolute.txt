@@ -1,6 +1,0 @@
-C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\bin\Debug\ConsoleAppInteraktywnie.exe.config
-C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\bin\Debug\ConsoleAppInteraktywnie.exe
-C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\bin\Debug\ConsoleAppInteraktywnie.pdb
-C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\obj\Debug\ConsoleAppInteraktywnie.csprojAssemblyReference.cache
-C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\obj\Debug\ConsoleAppInteraktywnie.exe
-C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\obj\Debug\ConsoleAppInteraktywnie.pdb
