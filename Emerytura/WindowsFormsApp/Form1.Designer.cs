@@ -105,7 +105,7 @@
             this.labelWynik.Name = "labelWynik";
             this.labelWynik.Size = new System.Drawing.Size(35, 13);
             this.labelWynik.TabIndex = 7;
-            this.labelWynik.Text = "label1";
+            this.labelWynik.Text = "Etykieta";
             // 
             // Form1
             // 
@@ -127,6 +127,7 @@
         }
 
         #endregion
+
         private System.Windows.Forms.TextBox textBoxName;
         private System.Windows.Forms.Label labelName;
         private System.Windows.Forms.Label labelSurname;

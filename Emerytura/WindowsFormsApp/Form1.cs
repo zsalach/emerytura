@@ -27,9 +27,7 @@ namespace WindowsFormsApp
             if (wiek >= 67)
                 labelWynik.Text = "jesteś emerytem";
             else
-       
                 labelWynik.Text = $"Do emerytury zostało ci {67 - wiek} lat ";
-            
-        } 
+         } 
     }
 }

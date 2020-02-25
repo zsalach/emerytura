@@ -3,3 +3,4 @@ C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInterakty
 C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\bin\Debug\ConsoleAppInteraktywnie.pdb
 C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\obj\Debug\ConsoleAppInteraktywnie.exe
 C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\obj\Debug\ConsoleAppInteraktywnie.pdb
+C:\Users\zsala\OneDrive\Dokumenty\GitHub\emerytura\Emerytura\ConsoleAppInteraktywnie\obj\Debug\ConsoleAppInteraktywnie.csprojAssemblyReference.cache
